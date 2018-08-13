@@ -1,0 +1,15 @@
+[submodule "Controller"]
+	path = Controller
+	url = https://github.com/pedro-sidra/Controller
+[submodule "Encoder"]
+	path = Encoder
+	url = https://github.com/pedro-sidra/Encoder
+[submodule "LibMotor"]
+	path = LibMotor
+	url = https://github.com/pedro-sidra/LibMotor
+[submodule "LibSonar"]
+	path = LibSonar
+	url = https://github.com/pedro-sidra/LibSonar
+[submodule "eduLib"]
+	path = eduLib
+	url = https://github.com/pedro-sidra/eduLib
